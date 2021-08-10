@@ -5,17 +5,17 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "cc277786dbbdc6d2693a3e2abdd47a66"
+        API_ID = 1089626
+        BOT_TOKEN = "1904393503:AAHTdH_Uu4lvXvmDb82erGBRuy-4rL9-CIE"
+        BASE_URL_OF_BOT = "postgres://txmxuyibczsthm:16fc4313a713b5efac55887919bd5f472d39861db87c12a92ef50c575ab2b3a2@ec2-44-194-145-230.compute-1.amazonaws.com:5432/davc8tqsi06tj0"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
-        OWNER_ID = 0
+        ALD_USR = [1006588161]
+        OWNER_ID = 1006588161
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
